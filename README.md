@@ -14,6 +14,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### `npx json-server --watch data/db.json --port 8000`
+run  this command in order to run the JSON server and watching the mock db in the db.json folder . 
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
